@@ -55,9 +55,14 @@ body {
    font-weight: 300;
 }
 
-.heading {
+h3 {
    font-weight: 800;
    width: 336px;
+}
+
+h3:hover {
+   cursor: pointer;
+   color: var(--Yellow);
 }
 
 .content {
